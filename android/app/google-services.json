@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "766882053270",
+    "project_id": "edspert-advance-learning-adi",
+    "storage_bucket": "edspert-advance-learning-adi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766882053270:android:5b662f109a8e2d511756b7",
+        "android_client_info": {
+          "package_name": "com.example.finpro_edspert_adi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766882053270-shmv5sj7fmn6nnbub82jr89mrgf6bu4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finpro_edspert_adi",
+            "certificate_hash": "96da842a8a27934063b5f767aa80dd48ee8e5be6"
+          }
+        },
+        {
+          "client_id": "766882053270-k41ccrqnj9a54bu4ji3sp2mk76hpdt0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEgfyRos69wdUctSwePEF-7RzHYIqe_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766882053270-k41ccrqnj9a54bu4ji3sp2mk76hpdt0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766882053270-3ct4chi6b60jaua3bvvv3jf0es35mr2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAdvance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
